@@ -4,9 +4,9 @@ import os
 
 # Dictionary to store user credentials (username: password)
 USER_CREDENTIALS = {
-    "admin": "password",
-    "user1": "user1password",
-    "user2": "user2password"
+    "admin": "Eklavya@2023",
+    "Pronoy": "Eklavya@2023",
+    "Nisha": "Eklavya@2023"
 }
 
 # Function to check credentials
